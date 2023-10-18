@@ -8,6 +8,7 @@
 Dators nejauši ģenerē vienu skaitli no 1 līdz 100. Tālāk piedāvā spēlētājiem uzminēt to skaitli utt
 
 Spēles loģika ir labi aprakstīta šajā kodā:
+```py
 import random
 repeat= True
 while repeat:
@@ -37,4 +38,5 @@ while repeat:
     elif response == "n":
         repeat = False
         print("Paldies par spēli! Bye,bye!")
+```
 ### 3.Utt
