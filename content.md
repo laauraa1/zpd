@@ -3,7 +3,7 @@
 ### Saturs
 
 ### 1.Spēles apraksts
-Interisants,spēle, kas atīsta loģiku.
+Interisants,jautru,spēle, kas atīsta loģiku.
 ### 2.Spēles loģika
 
 Dators nejauši ģenerē vienu skaitli no 1 līdz 100. Tālāk piedāvā spēlētājiem uzminēt to skaitli utt
