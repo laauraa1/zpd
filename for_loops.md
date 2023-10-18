@@ -1,4 +1,4 @@
- '''py
+'''py
 names = ['Anna','Oskars','DŽenifera']
 ages = [16, 14, 17]
  
