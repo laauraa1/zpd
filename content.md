@@ -2,7 +2,8 @@
 
 ### Saturs
 
-### 1.Apraksts
+### 1.Spēles apraksts
+Interisants,spēle, kas atīsta loģiku.
 ### 2.Spēles loģika
 
 Dators nejauši ģenerē vienu skaitli no 1 līdz 100. Tālāk piedāvā spēlētājiem uzminēt to skaitli utt
@@ -39,4 +40,4 @@ while repeat:
         repeat = False
         print("Paldies par spēli! Bye,bye!")
 ```
-### 3.Utt
+
